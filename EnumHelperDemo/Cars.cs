@@ -7,7 +7,7 @@ namespace EnumHelperDemo
         FourDoorSedan,
         FourByFour,
         SportsCar,
-        Conbertable,
+        Convertible,
         PickUp,
     }
 
@@ -22,8 +22,8 @@ namespace EnumHelperDemo
         [Description("Sports Car")]
         SportsCar,
 
-        [Description("Convertable")]
-        Conbertable,
+        [Description("Convertible")]
+        Convertible,
 
         [Description("Pick-Up Truck")]
         PickUp,
